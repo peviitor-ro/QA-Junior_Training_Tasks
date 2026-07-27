@@ -1,12 +1,11 @@
 Principle 1: Testing Shows the Presence of Defects, Not Their Absence
 
+Select a functionality on peviitor.ro that can demonstrate this testing principle and test it using different scenarios.
+
 E.g: Test the job search functionality on peviitor.ro.
-
-
 Steps:
 
 - Open the peviitor.ro homepage.
-
 - Enter different search inputs:
 - A valid keyword
 - A non-existing keyword
